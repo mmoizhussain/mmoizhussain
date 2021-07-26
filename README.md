@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmoizhussain
-- 👀 I’m interested in ... RISC-V | Embedded Linux | Yocto | RTOS
-- 🌱 I’m currently learning ... RISC-V | Embedded Linux | RTOS | Yocto
-- 💞️ I’m looking to collaborate on ... RISC-V
+- 👀 I’m interested in ... RISC-V | ARM | Embedded Linux | Yocto | RTOS | Hardware Verification | ISA Tests | UVM
+- 🌱 I’m currently learning ... RISC-V | Embedded Linux | Yocto | RTOS | Hardware Verification | ISA Tests | UVM
+- 💞️ I’m looking to collaborate on ... RISC-V | ARM | OS | RTOS | Linux
 - 📫 How to reach me ... send an email or reach out on github
 
 <!---
